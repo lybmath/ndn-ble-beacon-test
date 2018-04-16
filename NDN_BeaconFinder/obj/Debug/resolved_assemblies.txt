@@ -1,29 +1,29 @@
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\NDN_BeaconFinder.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\Java.Interop.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\Mono.Android.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\mscorlib.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\ndn-dot-net.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Core.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Runtime.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Xml.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Threading.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Collections.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Collections.Concurrent.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Reflection.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Diagnostics.Debug.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Linq.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Runtime.InteropServices.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Runtime.Extensions.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Reflection.Extensions.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Reflection.Primitives.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Net.Http.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Runtime.Serialization.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.ServiceModel.Internals.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\Mono.Data.Sqlite.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Data.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Numerics.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.Transactions.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\Mono.Data.Tds.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\Mono.Security.dll
-F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Debug\android\assets\System.ComponentModel.Composition.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\NDN_BeaconFinder.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\Java.Interop.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\Mono.Android.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\mscorlib.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\ndn-dot-net.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Core.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Runtime.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Xml.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Threading.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Collections.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Collections.Concurrent.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Reflection.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Diagnostics.Debug.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Linq.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Runtime.InteropServices.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Runtime.Extensions.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Reflection.Extensions.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Reflection.Primitives.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Net.Http.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Runtime.Serialization.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.ServiceModel.Internals.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\Mono.Data.Sqlite.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Data.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Numerics.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.Transactions.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\Mono.Data.Tds.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\Mono.Security.dll
+D:\My Documents\GitHub\ndn-ble-beacon-test\NDN_BeaconFinder\obj\Debug\android\assets\System.ComponentModel.Composition.dll

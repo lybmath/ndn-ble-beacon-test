@@ -64,7 +64,7 @@ namespace NDN_BeaconFinder
                 string readString_MAC = READ_INTEREST_STRING + "/" + removeColonsFromMACAddress(MainActivity.SelectedBeacon.Mac_Address);
                 Console.WriteLine("Sending Interest for: " + readString_MAC);
                 var discoverInterest = new Interest(new Name(readString_MAC));
-                discoverInterest.setInterestLifetimeMilliseconds(3s000);
+                discoverInterest.setInterestLifetimeMilliseconds(3000);
 
                 // Express the Interest
                 face.expressInterest(discoverInterest, NDN_Counter, NDN_Counter);
