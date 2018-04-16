@@ -1,0 +1,8 @@
+F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Release\android\assets\NDN_BeaconFinder.dll
+F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Release\android\assets\Java.Interop.dll
+F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Release\android\assets\Mono.Android.dll
+F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Release\android\assets\mscorlib.dll
+F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Release\android\assets\ndn-dot-net.dll
+F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Release\android\assets\System.Core.dll
+F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Release\android\assets\System.dll
+F:\02_UCLA\00_Masters Project\Project Files\NDN_BeaconFinder\NDN_BeaconFinder\obj\Release\android\assets\System.Runtime.Serialization.dll

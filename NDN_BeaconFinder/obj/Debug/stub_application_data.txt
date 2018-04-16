@@ -1,0 +1,2 @@
+android.app.Application
+NDN_BeaconFinder.NDN_BeaconFinder
